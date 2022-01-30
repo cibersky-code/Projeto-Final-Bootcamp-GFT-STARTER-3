@@ -12,7 +12,7 @@
 
 ### :blue_book: **Os seguintes modulos foram selecionado:**
 
-
+:link: [Spring Initializr](https://start.spring.io/)
 
  - :heavy_check_mark: Spring Data JPA
  - :heavy_check_mark: Spring Web
@@ -21,7 +21,7 @@
 
 
 
-:link: [Spring Initializr](https://start.spring.io/)
+
 
 
 

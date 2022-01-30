@@ -1,10 +1,10 @@
-package com.dio.GOF;
+package one.digitalinnovation.gof;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringProjetApplicationTests {
+class LabPadroesProjetoSpringApplicationTests {
 
 	@Test
 	void contextLoads() {
